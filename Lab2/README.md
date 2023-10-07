@@ -29,6 +29,8 @@ The writeup for this lab should contain the following outline:
 
 (you can download the writeup template [here](/Lab2/Lab2_WriteUp.docx))
 
+(**You still need to answer all the questions in the introduction below even if you are using the template**)
+
 1. Title page (see template in the folder ‘Requirement of Lab Reports’ on Canvas)
 2. Introduction
    - ⅓ of a page describing the purpose and goals of this lab in your own words. Do not reproduce any material from this assignment document in any section of your writeup.
